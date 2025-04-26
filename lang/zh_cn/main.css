@@ -1,0 +1,9 @@
+@import "./lxgw/font.css";
+
+body, .tooltip, select.menuBtn {
+    font-family: lxgw, "Times New Roman", Times, serif!important;
+}
+
+.button{width: 100px !important;}
+#outsidePanel .button{width: 115px !important;}
+.eventPanel .button {width: 122px !important;}
