@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-04-26 10:52+0800\n"
+"POT-Creation-Date: 2025-05-02 08:37+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3277,234 +3277,258 @@ msgid "fleet beacon"
 msgstr ""
 
 #: localization.js:7
-msgid "builder"
+msgid "hypo blueprint"
 msgstr ""
 
 #: localization.js:8
-msgid "teeth"
+msgid "kinetic armour blueprint"
 msgstr ""
 
 #: localization.js:9
-msgid "meat"
+msgid "plasma rifle blueprint"
 msgstr ""
 
 #: localization.js:10
-msgid "fur"
+msgid "disruptor blueprint"
 msgstr ""
 
 #: localization.js:11
-msgid "alien alloy"
+msgid "glowstone blueprint"
 msgstr ""
 
 #: localization.js:12
-msgid "bullets"
+msgid "stim blueprint"
 msgstr ""
 
 #: localization.js:13
-msgid "charm"
+msgid "builder"
 msgstr ""
 
-#: localization.js:14 path.js:144
-msgid "leather"
+#: localization.js:14
+msgid "teeth"
 msgstr ""
 
-#: localization.js:15 path.js:142
-msgid "iron"
+#: localization.js:15
+msgid "meat"
 msgstr ""
 
-#: localization.js:16 path.js:140
-msgid "steel"
+#: localization.js:16
+msgid "fur"
 msgstr ""
 
 #: localization.js:17
-msgid "coal"
+msgid "alien alloy"
 msgstr ""
 
 #: localization.js:18
-msgid "sulphur"
+msgid "bullets"
 msgstr ""
 
 #: localization.js:19
-msgid "energy cell"
+msgid "charm"
 msgstr ""
 
-#: localization.js:20 room.js:169
-msgid "torch"
+#: localization.js:20 path.js:144
+msgid "leather"
 msgstr ""
 
-#: localization.js:21
-msgid "medicine"
+#: localization.js:21 path.js:142
+msgid "iron"
 msgstr ""
 
-#: localization.js:22 outside.js:22
-msgid "hunter"
+#: localization.js:22 path.js:140
+msgid "steel"
 msgstr ""
 
-#: localization.js:23 outside.js:30
-msgid "trapper"
+#: localization.js:23
+msgid "coal"
 msgstr ""
 
-#: localization.js:24 outside.js:38
-msgid "tanner"
+#: localization.js:24
+msgid "sulphur"
 msgstr ""
 
 #: localization.js:25
-msgid "grenade"
+msgid "energy cell"
 msgstr ""
 
-#: localization.js:26
-msgid "bolas"
+#: localization.js:26 room.js:169
+msgid "torch"
 msgstr ""
 
 #: localization.js:27
-msgid "bayonet"
+msgid "medicine"
 msgstr ""
 
-#: localization.js:28 outside.js:46
-msgid "charcutier"
+#: localization.js:28 outside.js:22
+msgid "hunter"
 msgstr ""
 
-#: localization.js:29 outside.js:55
-msgid "iron miner"
+#: localization.js:29 outside.js:30
+msgid "trapper"
 msgstr ""
 
-#: localization.js:30
-msgid "iron mine"
+#: localization.js:30 outside.js:38
+msgid "tanner"
 msgstr ""
 
-#: localization.js:31 outside.js:63
-msgid "coal miner"
+#: localization.js:31
+msgid "grenade"
 msgstr ""
 
 #: localization.js:32
+msgid "bolas"
+msgstr ""
+
+#: localization.js:33
+msgid "bayonet"
+msgstr ""
+
+#: localization.js:34 outside.js:46
+msgid "charcutier"
+msgstr ""
+
+#: localization.js:35 outside.js:55
+msgid "iron miner"
+msgstr ""
+
+#: localization.js:36
+msgid "iron mine"
+msgstr ""
+
+#: localization.js:37 outside.js:63
+msgid "coal miner"
+msgstr ""
+
+#: localization.js:38
 msgid "coal mine"
 msgstr ""
 
-#: localization.js:33 outside.js:71
+#: localization.js:39 outside.js:71
 msgid "sulphur miner"
 msgstr ""
 
-#: localization.js:34
+#: localization.js:40
 msgid "sulphur mine"
 msgstr ""
 
-#: localization.js:35 outside.js:88
+#: localization.js:41 outside.js:88
 msgid "armourer"
 msgstr ""
 
-#: localization.js:36 outside.js:79
+#: localization.js:42 outside.js:79
 msgid "steelworker"
 msgstr ""
 
-#: localization.js:37
+#: localization.js:43
 msgid "bait"
 msgstr ""
 
-#: localization.js:38 localization.js:45
+#: localization.js:44 localization.js:51
 msgid "cured meat"
 msgstr ""
 
-#: localization.js:39 localization.js:44
+#: localization.js:45 localization.js:50
 msgid "scales"
 msgstr ""
 
-#: localization.js:40
+#: localization.js:46
 msgid "compass"
 msgstr ""
 
-#: localization.js:41
+#: localization.js:47
 msgid "laser rifle"
 msgstr ""
 
-#: localization.js:42 outside.js:15
+#: localization.js:48 outside.js:15
 msgid "gatherer"
 msgstr ""
 
-#: localization.js:43
+#: localization.js:49
 msgid "cloth"
 msgstr ""
 
-#: localization.js:46
+#: localization.js:52
 msgid "thieves"
 msgstr ""
 
-#: localization.js:47
+#: localization.js:53
 msgid "not enough fur"
 msgstr ""
 
-#: localization.js:48
+#: localization.js:54
 msgid "not enough wood"
 msgstr ""
 
-#: localization.js:49
+#: localization.js:55
 msgid "not enough coal"
 msgstr ""
 
-#: localization.js:50
+#: localization.js:56
 msgid "not enough iron"
 msgstr ""
 
-#: localization.js:51
+#: localization.js:57
 msgid "not enough steel"
 msgstr ""
 
-#: localization.js:52
+#: localization.js:58
 msgid "not enough sulphur"
 msgstr ""
 
-#: localization.js:53
+#: localization.js:59
 msgid "baited trap"
 msgstr ""
 
-#: localization.js:54
+#: localization.js:60
 msgid "not enough scales"
 msgstr ""
 
-#: localization.js:55
+#: localization.js:61
 msgid "not enough cloth"
 msgstr ""
 
-#: localization.js:56
+#: localization.js:62
 msgid "not enough teeth"
 msgstr ""
 
-#: localization.js:57
+#: localization.js:63
 msgid "not enough leather"
 msgstr ""
 
-#: localization.js:58
+#: localization.js:64
 msgid "not enough meat"
 msgstr ""
 
-#: localization.js:59
+#: localization.js:65
 msgid "the compass points east"
 msgstr ""
 
-#: localization.js:60
+#: localization.js:66
 msgid "the compass points west"
 msgstr ""
 
-#: localization.js:61
+#: localization.js:67
 msgid "the compass points north"
 msgstr ""
 
-#: localization.js:62
+#: localization.js:68
 msgid "the compass points south"
 msgstr ""
 
-#: localization.js:63
+#: localization.js:69
 msgid "the compass points northeast"
 msgstr ""
 
-#: localization.js:64
+#: localization.js:70
 msgid "the compass points northwest"
 msgstr ""
 
-#: localization.js:65
+#: localization.js:71
 msgid "the compass points southeast"
 msgstr ""
 
-#: localization.js:66
+#: localization.js:72
 msgid "the compass points southwest"
 msgstr ""
 
@@ -4374,6 +4398,10 @@ msgstr ""
 msgid ""
 "builder knows the strange device when she sees it. takes it for herself real "
 "quick. doesn’t ask where it came from."
+msgstr ""
+
+#: world.js:1007
+msgid "blueprints feed into the fabricator data port. possibilities grow."
 msgstr ""
 
 #: world.js:1099
