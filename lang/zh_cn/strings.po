@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: adarkroom\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-05-02 08:37+0800\n"
-"PO-Revision-Date: 2025-05-02 08:40+0800\n"
+"PO-Revision-Date: 2025-05-02 08:55+0800\n"
 "Last-Translator: dblark <2723569669@qq.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -4453,7 +4453,7 @@ msgstr ""
 
 #: world.js:1007
 msgid "blueprints feed into the fabricator data port. possibilities grow."
-msgstr ""
+msgstr "蓝图送到制造器的数据接口。可以制造的物品增加了。"
 
 #: world.js:1099
 msgid "A Barren World"
