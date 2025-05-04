@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: adarkroom\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-05-02 08:37+0800\n"
-"PO-Revision-Date: 2025-05-02 08:55+0800\n"
+"POT-Creation-Date: 2025-05-04 09:14+0800\n"
+"PO-Revision-Date: 2025-05-04 09:53+0800\n"
 "Last-Translator: dblark <2723569669@qq.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -218,9 +218,11 @@ msgstr "进食恢复更多生命"
 msgid "learned to make the most of food"
 msgstr "学会充分消化食物"
 
+# sound on 相当于是动词，意为“开启声音”，则此时声音**已**关闭。
+# sound off 同理，不再加以注释。
 #: engine.js:147 engine.js:824
 msgid "sound on."
-msgstr "声音已开启."
+msgstr "声音已关闭."
 
 #: engine.js:153
 msgid "get the app."
@@ -381,7 +383,7 @@ msgstr "{0} /{1}秒"
 
 #: engine.js:828
 msgid "sound off."
-msgstr "声音已关闭."
+msgstr "声音已开启."
 
 #: engine.js:872
 msgid "Sound Available!"
@@ -1181,7 +1183,7 @@ msgstr "应该还能能打开它。"
 
 #: events/executioner.js:1187
 msgid "the corridor is eerily silent."
-msgstr "森林归于静谧。"
+msgstr "走廊里很寂静，令人毛骨悚然。"
 
 #: events/executioner.js:1202
 msgid "crew cabins flank the hall, devoid of life."
@@ -3322,258 +3324,262 @@ msgid "fleet beacon"
 msgstr "舰队信标"
 
 #: localization.js:7
+msgid "glowstone"
+msgstr "发光石"
+
+#: localization.js:8
 msgid "hypo blueprint"
 msgstr "恢复液蓝图"
 
-#: localization.js:8
+#: localization.js:9
 msgid "kinetic armour blueprint"
 msgstr "动能装甲蓝图"
 
-#: localization.js:9
+#: localization.js:10
 msgid "plasma rifle blueprint"
 msgstr "离子步枪蓝图"
 
-#: localization.js:10
+#: localization.js:11
 msgid "disruptor blueprint"
 msgstr "干扰器蓝图"
 
-#: localization.js:11
+#: localization.js:12
 msgid "glowstone blueprint"
 msgstr "发光石蓝图"
 
-#: localization.js:12
+#: localization.js:13
 msgid "stim blueprint"
 msgstr "兴奋剂蓝图"
 
-#: localization.js:13
+#: localization.js:14
 msgid "builder"
 msgstr "建造者"
 
-#: localization.js:14
+#: localization.js:15
 msgid "teeth"
 msgstr "牙齿"
 
-#: localization.js:15
+#: localization.js:16
 msgid "meat"
 msgstr "肉"
 
-#: localization.js:16
+#: localization.js:17
 msgid "fur"
 msgstr "毛皮"
 
-#: localization.js:17
+#: localization.js:18
 msgid "alien alloy"
 msgstr "外星合金"
 
-#: localization.js:18
+#: localization.js:19
 msgid "bullets"
 msgstr "子弹"
 
-#: localization.js:19
+#: localization.js:20
 msgid "charm"
 msgstr "符咒"
 
-#: localization.js:20 path.js:144
+#: localization.js:21 path.js:144
 msgid "leather"
 msgstr "皮革"
 
-#: localization.js:21 path.js:142
+#: localization.js:22 path.js:142
 msgid "iron"
 msgstr "铁"
 
-#: localization.js:22 path.js:140
+#: localization.js:23 path.js:140
 msgid "steel"
 msgstr "钢"
 
-#: localization.js:23
+#: localization.js:24
 msgid "coal"
 msgstr "煤"
 
-#: localization.js:24
+#: localization.js:25
 msgid "sulphur"
 msgstr "硫磺"
 
-#: localization.js:25
+#: localization.js:26
 msgid "energy cell"
 msgstr "能量元件"
 
-#: localization.js:26 room.js:169
+#: localization.js:27 room.js:169
 msgid "torch"
 msgstr "火把"
 
-#: localization.js:27
+#: localization.js:28
 msgid "medicine"
 msgstr "药剂"
 
-#: localization.js:28 outside.js:22
+#: localization.js:29 outside.js:22
 msgid "hunter"
 msgstr "猎人"
 
-#: localization.js:29 outside.js:30
+#: localization.js:30 outside.js:30
 msgid "trapper"
 msgstr "陷阱师"
 
-#: localization.js:30 outside.js:38
+#: localization.js:31 outside.js:38
 msgid "tanner"
 msgstr "皮革师"
 
-#: localization.js:31
+#: localization.js:32
 msgid "grenade"
 msgstr "手雷"
 
-#: localization.js:32
+#: localization.js:33
 msgid "bolas"
 msgstr "套索"
 
-#: localization.js:33
+#: localization.js:34
 msgid "bayonet"
 msgstr "刺刀"
 
-#: localization.js:34 outside.js:46
+#: localization.js:35 outside.js:46
 msgid "charcutier"
 msgstr "熏肉师"
 
-#: localization.js:35 outside.js:55
+#: localization.js:36 outside.js:55
 msgid "iron miner"
 msgstr "铁矿工人"
 
-#: localization.js:36
+#: localization.js:37
 msgid "iron mine"
 msgstr "铁矿"
 
-#: localization.js:37 outside.js:63
+#: localization.js:38 outside.js:63
 msgid "coal miner"
 msgstr "煤矿工人"
 
-#: localization.js:38
+#: localization.js:39
 msgid "coal mine"
 msgstr "煤矿"
 
-#: localization.js:39 outside.js:71
+#: localization.js:40 outside.js:71
 msgid "sulphur miner"
 msgstr "硫磺矿工"
 
-#: localization.js:40
+#: localization.js:41
 msgid "sulphur mine"
 msgstr "硫磺矿"
 
-#: localization.js:41 outside.js:88
+#: localization.js:42 outside.js:88
 msgid "armourer"
 msgstr "军械工人"
 
-#: localization.js:42 outside.js:79
+#: localization.js:43 outside.js:79
 msgid "steelworker"
 msgstr "炼钢工人"
 
-#: localization.js:43
+#: localization.js:44
 msgid "bait"
 msgstr "诱饵"
 
-#: localization.js:44 localization.js:51
+#: localization.js:45 localization.js:52
 msgid "cured meat"
 msgstr "熏肉"
 
-#: localization.js:45 localization.js:50
+#: localization.js:46 localization.js:51
 msgid "scales"
 msgstr "鳞片"
 
-#: localization.js:46
+#: localization.js:47
 msgid "compass"
 msgstr "罗盘"
 
-#: localization.js:47
+#: localization.js:48
 msgid "laser rifle"
 msgstr "激光步枪"
 
-#: localization.js:48 outside.js:15
+#: localization.js:49 outside.js:15
 msgid "gatherer"
 msgstr "伐木者"
 
-#: localization.js:49
+#: localization.js:50
 msgid "cloth"
 msgstr "布料"
 
-#: localization.js:52
+#: localization.js:53
 msgid "thieves"
 msgstr "小偷"
 
-#: localization.js:53
+#: localization.js:54
 msgid "not enough fur"
 msgstr "皮毛不够了"
 
-#: localization.js:54
+#: localization.js:55
 msgid "not enough wood"
 msgstr "木头不够了"
 
-#: localization.js:55
+#: localization.js:56
 msgid "not enough coal"
 msgstr "煤炭不够了"
 
-#: localization.js:56
+#: localization.js:57
 msgid "not enough iron"
 msgstr "铁不够了"
 
-#: localization.js:57
+#: localization.js:58
 msgid "not enough steel"
 msgstr "钢不够了"
 
-#: localization.js:58
+#: localization.js:59
 msgid "not enough sulphur"
 msgstr "硫磺不够了"
 
-#: localization.js:59
+#: localization.js:60
 msgid "baited trap"
 msgstr "上饵陷阱"
 
-#: localization.js:60
+#: localization.js:61
 msgid "not enough scales"
 msgstr "鳞片不够了"
 
-#: localization.js:61
+#: localization.js:62
 msgid "not enough cloth"
 msgstr "布料不够了"
 
-#: localization.js:62
+#: localization.js:63
 msgid "not enough teeth"
 msgstr "牙齿不够了"
 
-#: localization.js:63
+#: localization.js:64
 msgid "not enough leather"
 msgstr "皮革不够了"
 
-#: localization.js:64
+#: localization.js:65
 msgid "not enough meat"
 msgstr "肉不够了"
 
-#: localization.js:65
+#: localization.js:66
 msgid "the compass points east"
 msgstr "罗盘指向东方"
 
-#: localization.js:66
+#: localization.js:67
 msgid "the compass points west"
 msgstr "罗盘指向西方"
 
-#: localization.js:67
+#: localization.js:68
 msgid "the compass points north"
 msgstr "罗盘指向北方"
 
-#: localization.js:68
+#: localization.js:69
 msgid "the compass points south"
 msgstr "罗盘指向南方"
 
-#: localization.js:69
+#: localization.js:70
 msgid "the compass points northeast"
 msgstr "罗盘指向东北"
 
-#: localization.js:70
+#: localization.js:71
 msgid "the compass points northwest"
 msgstr "罗盘指向西北"
 
-#: localization.js:71
+#: localization.js:72
 msgid "the compass points southeast"
 msgstr "罗盘指向东南"
 
-#: localization.js:72
+#: localization.js:73
 msgid "the compass points southwest"
 msgstr "罗盘指向西南"
 

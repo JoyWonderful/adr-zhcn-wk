@@ -4,6 +4,7 @@
 		_('saved.'),
 		_('wood'),
 		_('fleet beacon'),
+		_('glowstone'),
 		_('hypo blueprint'),
 		_('kinetic armour blueprint'),
 		_('plasma rifle blueprint'),
